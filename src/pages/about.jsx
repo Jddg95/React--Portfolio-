@@ -1,10 +1,11 @@
+import UserProfile from '../components/UserProfile';
+
 export default function About() {
-    return (
-        <div>
-            <h1>About</h1>
-            <p>
-                This is a simple example of a React application with routing.
-            </p>
-        </div>
-    );
+  return (
+    <div>
+        <UserProfile />
+      <h1>about page</h1>
+      <p></p>
+    </div>
+  );
 }
