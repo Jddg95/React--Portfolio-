@@ -9,3 +9,13 @@
     background-color: #174C66;
 }
 
+.App {
+    background-color: #174C66;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  footer {
+    color: black;
+  }
