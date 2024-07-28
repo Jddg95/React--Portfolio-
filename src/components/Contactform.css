@@ -1,0 +1,32 @@
+.contact-container {
+    text-align: center;
+    padding: 20px;
+    width: 80%;
+    max-width: 800px;
+    height: auto;
+    margin: 50px auto;
+    background-color: #ccd0db;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .contact-container h1 {
+    margin-bottom: 20px;
+  }
+  
+  .contact-container form {
+    width: 100%;
+  }
+  
+  .contact-container .form-control {
+    margin-bottom: 15px;
+  }
+  
+  .contact-container .btn {
+    background-color: #007acc;
+    border-color: #007acc;
+  }
