@@ -19,3 +19,19 @@
   footer {
     color: black;
   }
+  
+  .navbar-brand {
+    color: #ccd0db !important;
+}
+
+.nav-link {
+    color: #ccd0db !important;
+}
+
+.footer-text {
+    color: #ccd0db !important;
+}
+
+.navbar-toggler {
+    background-color: #ccd0db !important;
+}
