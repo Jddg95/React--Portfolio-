@@ -1,11 +1,11 @@
-import React from 'react';
-import './UserProfile.css';
-import defaultPhoto from '../assets/images/default-photo.jpg'; // Adjust the path as necessary
+import React from "react";
+import "./UserProfile.css";
+import defaultPhoto from "../assets/images/1704292126044.jpg"; // Adjust the path as necessary
 
 function UserProfile() {
   const photo = defaultPhoto;
-  const name = 'Your Name';
-  const description = 'Your Description';
+  const name = "Your Name";
+  const description = "Your Description";
 
   return (
     <div className="user-profile-container">
