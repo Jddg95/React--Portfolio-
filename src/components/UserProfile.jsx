@@ -5,7 +5,7 @@ import defaultPhoto from "../assets/images/profile-photo.jpg"; // Adjust the pat
 function UserProfile() {
   const [photo] = useState(defaultPhoto);
   const [description] =
-    useState(`Hi there! My name is Johnny, and I'm a budding web developer currently completing a rigorous coding bootcamp at the University of Texas in Austin. With my graduation just around the corner, I've immersed myself in various technologies, including SQL, NoSQL, Node.js, HTML, CSS, React, and more.
+    useState(`Hi there! My name is Juan, and I'm a budding web developer currently completing a rigorous coding bootcamp at the University of Texas in Austin. With my graduation just around the corner, I've immersed myself in various technologies, including SQL, NoSQL, Node.js, HTML, CSS, React, and more.
 
 During this bootcamp, I've developed a strong foundation in both front-end and back-end development, working on diverse projects that have honed my problem-solving skills and creativity. I'm passionate about building user-friendly, responsive, and visually appealing web applications.
 

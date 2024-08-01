@@ -35,3 +35,9 @@
 .navbar-toggler {
     background-color: #ccd0db !important;
 }
+
+.carousel {
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+}
